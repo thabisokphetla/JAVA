@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 26 11:25:55 CAT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-0158-004f-6c76-000006e976c8 
+on database directory C:\JAVA LEARNING\JavaDerby\kelado with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_25/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=C:\JAVA LEARNING\JavaDerby
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
