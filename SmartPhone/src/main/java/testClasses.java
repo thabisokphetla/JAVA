@@ -8,7 +8,7 @@ import viewData.Selects;
  * 
  * @author Thabiso K Phetla
  * The application is to show how data from database is processed  by using java 
- * I did not do data validation so use it correctly don't try funny things here
+ * I did not do data validation the class Exception handles errors, So use it correctly don't try funny things here
  * Brand ID and Phone cost are numbers not do test chars or strings the program will crush
  */
 public class testClasses {
